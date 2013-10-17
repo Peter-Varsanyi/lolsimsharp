@@ -45,7 +45,6 @@
   <ItemGroup>
     <Compile Include="Amumu.cs" />
     <Compile Include="Base.cs" />
-    <Compile Include="Base_bacllbacktest.cs" />
     <Compile Include="Buff.cs" />
     <Compile Include="Creep.cs" />
     <Compile Include="Damage.cs" />
